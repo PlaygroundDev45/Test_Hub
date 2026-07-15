@@ -340,7 +340,77 @@
 											"request": [],
 											"response": [],
 											"attributes": [],
-											"data": []
+											"data": [
+												{
+													"fieldNo": "aae7faf0-bc59-4b70-cff2-88d94fbdb697",
+													"fieldName": "ContainerCars1",
+													"fieldParent": "a72cc121-8f5b-487c-fadf-f54cfd63ab62",
+													"fieldType": "sap.ui.unified.SplitContainer",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [],
+													"data": [
+														{
+															"fieldNo": "038e48e5-c8c2-4e07-8eb5-04da0d161a1b",
+															"fieldName": "Table",
+															"fieldParent": "aae7faf0-bc59-4b70-cff2-88d94fbdb697",
+															"fieldType": "sap.m.Table",
+															"script": "",
+															"customComponent": false,
+															"request": [],
+															"response": [],
+															"attributes": [],
+															"data": []
+														},
+														{
+															"fieldNo": "2af9e688-77e6-419f-fcfc-8a7d5d60e43e",
+															"fieldName": "Title1",
+															"fieldParent": "aae7faf0-bc59-4b70-cff2-88d94fbdb697",
+															"fieldType": "sap.m.Title",
+															"script": "",
+															"customComponent": false,
+															"request": [],
+															"response": [],
+															"attributes": [
+																{
+																	"attribute": "level",
+																	"grouping": "Properties",
+																	"value": "H2",
+																	"script": "",
+																	"translation": []
+																}
+															],
+															"data": []
+														},
+														{
+															"fieldNo": "bd7a39e6-4be3-4667-d942-de08a3610c9f",
+															"fieldName": "VBox3",
+															"fieldParent": "aae7faf0-bc59-4b70-cff2-88d94fbdb697",
+															"fieldType": "sap.m.VBox",
+															"script": "",
+															"customComponent": false,
+															"request": [],
+															"response": [],
+															"attributes": [],
+															"data": []
+														},
+														{
+															"fieldNo": "ce3ad155-895c-4e97-88c3-47109d9d9625",
+															"fieldName": "VBox4",
+															"fieldParent": "aae7faf0-bc59-4b70-cff2-88d94fbdb697",
+															"fieldType": "sap.m.VBox",
+															"script": "",
+															"customComponent": false,
+															"request": [],
+															"response": [],
+															"attributes": [],
+															"data": []
+														}
+													]
+												}
+											]
 										},
 										{
 											"fieldNo": "3b76b94e-38c4-450f-ec69-062eed4bb365",
@@ -456,7 +526,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.09.02.1335",
+	"ver": "26.07.15.2331",
 	"application": "traknus_exercise",
 	"title": "",
 	"description": "",
