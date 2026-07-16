@@ -362,56 +362,7 @@
 															"request": [],
 															"response": [],
 															"attributes": [],
-															"data": [
-																{
-																	"fieldNo": "9f580a24-8ebe-4712-f9f8-e8ac48a58d1a",
-																	"fieldName": "ColumnListItem3",
-																	"fieldParent": "038e48e5-c8c2-4e07-8eb5-04da0d161a1b",
-																	"fieldType": "sap.m.ColumnListItem",
-																	"script": "",
-																	"customComponent": false,
-																	"request": [],
-																	"response": [],
-																	"attributes": [],
-																	"data": []
-																},
-																{
-																	"fieldNo": "72517eb9-9fa2-4a3b-85d9-aab4ddf0e9e6",
-																	"fieldName": "ColumnListItem2",
-																	"fieldParent": "038e48e5-c8c2-4e07-8eb5-04da0d161a1b",
-																	"fieldType": "sap.m.ColumnListItem",
-																	"script": "",
-																	"customComponent": false,
-																	"request": [],
-																	"response": [],
-																	"attributes": [],
-																	"data": []
-																},
-																{
-																	"fieldNo": "16a90aac-4c49-4378-f5a0-08b134275429",
-																	"fieldName": "ColumnListItem1",
-																	"fieldParent": "038e48e5-c8c2-4e07-8eb5-04da0d161a1b",
-																	"fieldType": "sap.m.ColumnListItem",
-																	"script": "",
-																	"customComponent": false,
-																	"request": [],
-																	"response": [],
-																	"attributes": [],
-																	"data": []
-																},
-																{
-																	"fieldNo": "e1269b8a-f639-4f46-f3fc-bc3099b79949",
-																	"fieldName": "ColumnListItem",
-																	"fieldParent": "038e48e5-c8c2-4e07-8eb5-04da0d161a1b",
-																	"fieldType": "sap.m.ColumnListItem",
-																	"script": "",
-																	"customComponent": false,
-																	"request": [],
-																	"response": [],
-																	"attributes": [],
-																	"data": []
-																}
-															]
+															"data": []
 														},
 														{
 															"fieldNo": "ce3ad155-895c-4e97-88c3-47109d9d9625",
@@ -496,6 +447,67 @@
 															"data": []
 														}
 													]
+												}
+											]
+										},
+										{
+											"fieldNo": "33635464-3438-428f-cf0a-f4d342ee8635",
+											"fieldName": "UserManagement",
+											"fieldParent": "82ac9f37-2887-4acd-9a0b-28d63f4e5e3c",
+											"fieldType": "sap.m.Page",
+											"script": "",
+											"customComponent": false,
+											"request": [],
+											"response": [],
+											"attributes": [],
+											"data": [
+												{
+													"fieldNo": "ce55b938-adef-4f2a-effa-a69fb05d7d8e",
+													"fieldName": "HBox2",
+													"fieldParent": "33635464-3438-428f-cf0a-f4d342ee8635",
+													"fieldType": "sap.m.HBox",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [],
+													"data": []
+												},
+												{
+													"fieldNo": "01a657d1-2886-4d85-ad39-254e9907bd20",
+													"fieldName": "HBox1",
+													"fieldParent": "33635464-3438-428f-cf0a-f4d342ee8635",
+													"fieldType": "sap.m.HBox",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [],
+													"data": []
+												},
+												{
+													"fieldNo": "aa8df34f-ecdc-4b3a-da20-e817ddbb89b0",
+													"fieldName": "VBox3",
+													"fieldParent": "33635464-3438-428f-cf0a-f4d342ee8635",
+													"fieldType": "sap.m.VBox",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [],
+													"data": []
+												},
+												{
+													"fieldNo": "5b178ee3-d779-405e-f415-c6fabbab7c98",
+													"fieldName": "VBox5",
+													"fieldParent": "33635464-3438-428f-cf0a-f4d342ee8635",
+													"fieldType": "sap.m.VBox",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [],
+													"data": []
 												}
 											]
 										}
