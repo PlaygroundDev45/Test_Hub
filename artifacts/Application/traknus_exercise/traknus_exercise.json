@@ -449,67 +449,6 @@
 													]
 												}
 											]
-										},
-										{
-											"fieldNo": "33635464-3438-428f-cf0a-f4d342ee8635",
-											"fieldName": "UserManagement",
-											"fieldParent": "82ac9f37-2887-4acd-9a0b-28d63f4e5e3c",
-											"fieldType": "sap.m.Page",
-											"script": "",
-											"customComponent": false,
-											"request": [],
-											"response": [],
-											"attributes": [],
-											"data": [
-												{
-													"fieldNo": "ce55b938-adef-4f2a-effa-a69fb05d7d8e",
-													"fieldName": "HBox2",
-													"fieldParent": "33635464-3438-428f-cf0a-f4d342ee8635",
-													"fieldType": "sap.m.HBox",
-													"script": "",
-													"customComponent": false,
-													"request": [],
-													"response": [],
-													"attributes": [],
-													"data": []
-												},
-												{
-													"fieldNo": "01a657d1-2886-4d85-ad39-254e9907bd20",
-													"fieldName": "HBox1",
-													"fieldParent": "33635464-3438-428f-cf0a-f4d342ee8635",
-													"fieldType": "sap.m.HBox",
-													"script": "",
-													"customComponent": false,
-													"request": [],
-													"response": [],
-													"attributes": [],
-													"data": []
-												},
-												{
-													"fieldNo": "aa8df34f-ecdc-4b3a-da20-e817ddbb89b0",
-													"fieldName": "VBox3",
-													"fieldParent": "33635464-3438-428f-cf0a-f4d342ee8635",
-													"fieldType": "sap.m.VBox",
-													"script": "",
-													"customComponent": false,
-													"request": [],
-													"response": [],
-													"attributes": [],
-													"data": []
-												},
-												{
-													"fieldNo": "5b178ee3-d779-405e-f415-c6fabbab7c98",
-													"fieldName": "VBox5",
-													"fieldParent": "33635464-3438-428f-cf0a-f4d342ee8635",
-													"fieldType": "sap.m.VBox",
-													"script": "",
-													"customComponent": false,
-													"request": [],
-													"response": [],
-													"attributes": [],
-													"data": []
-												}
-											]
 										}
 									]
 								}
@@ -555,7 +494,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "26.07.16.1040",
+	"ver": "26.07.16.1517",
 	"application": "traknus_exercise",
 	"title": "",
 	"description": "",
