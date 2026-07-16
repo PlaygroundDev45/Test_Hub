@@ -362,7 +362,56 @@
 															"request": [],
 															"response": [],
 															"attributes": [],
-															"data": []
+															"data": [
+																{
+																	"fieldNo": "9f580a24-8ebe-4712-f9f8-e8ac48a58d1a",
+																	"fieldName": "ColumnListItem3",
+																	"fieldParent": "038e48e5-c8c2-4e07-8eb5-04da0d161a1b",
+																	"fieldType": "sap.m.ColumnListItem",
+																	"script": "",
+																	"customComponent": false,
+																	"request": [],
+																	"response": [],
+																	"attributes": [],
+																	"data": []
+																},
+																{
+																	"fieldNo": "72517eb9-9fa2-4a3b-85d9-aab4ddf0e9e6",
+																	"fieldName": "ColumnListItem2",
+																	"fieldParent": "038e48e5-c8c2-4e07-8eb5-04da0d161a1b",
+																	"fieldType": "sap.m.ColumnListItem",
+																	"script": "",
+																	"customComponent": false,
+																	"request": [],
+																	"response": [],
+																	"attributes": [],
+																	"data": []
+																},
+																{
+																	"fieldNo": "16a90aac-4c49-4378-f5a0-08b134275429",
+																	"fieldName": "ColumnListItem1",
+																	"fieldParent": "038e48e5-c8c2-4e07-8eb5-04da0d161a1b",
+																	"fieldType": "sap.m.ColumnListItem",
+																	"script": "",
+																	"customComponent": false,
+																	"request": [],
+																	"response": [],
+																	"attributes": [],
+																	"data": []
+																},
+																{
+																	"fieldNo": "e1269b8a-f639-4f46-f3fc-bc3099b79949",
+																	"fieldName": "ColumnListItem",
+																	"fieldParent": "038e48e5-c8c2-4e07-8eb5-04da0d161a1b",
+																	"fieldType": "sap.m.ColumnListItem",
+																	"script": "",
+																	"customComponent": false,
+																	"request": [],
+																	"response": [],
+																	"attributes": [],
+																	"data": []
+																}
+															]
 														},
 														{
 															"fieldNo": "ce3ad155-895c-4e97-88c3-47109d9d9625",
@@ -494,7 +543,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "26.07.15.2336",
+	"ver": "26.07.16.1040",
 	"application": "traknus_exercise",
 	"title": "",
 	"description": "",
